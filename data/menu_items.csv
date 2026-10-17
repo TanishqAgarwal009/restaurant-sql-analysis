@@ -1,0 +1,31 @@
+item_id,item_name,category,price,cost
+1,Classic Veg Burger,Burgers,129,52
+2,Paneer Tikka Burger,Burgers,179,78
+3,Crispy Chicken Burger,Burgers,199,91
+4,Margherita Pizza,Pizza,249,105
+5,Farmhouse Pizza,Pizza,349,154
+6,Tandoori Paneer Pizza,Pizza,369,165
+7,Veg Biryani,Rice & Biryani,189,77
+8,Chicken Biryani,Rice & Biryani,249,112
+9,Paneer Biryani,Rice & Biryani,219,94
+10,Masala Dosa,South Indian,119,42
+11,Idli Sambar,South Indian,89,29
+12,Cheese Dosa,South Indian,149,54
+13,Dal Makhani Combo,Combos,229,98
+14,Paneer Butter Masala Combo,Combos,279,122
+15,Chicken Curry Combo,Combos,299,139
+16,French Fries,Sides,89,28
+17,Peri Peri Fries,Sides,119,39
+18,Garlic Bread,Sides,99,34
+19,Chocolate Brownie,Desserts,99,31
+20,Gulab Jamun,Desserts,79,23
+21,Chocolate Shake,Beverages,129,44
+22,Cold Coffee,Beverages,119,39
+23,Mango Lassi,Beverages,99,32
+24,Masala Chai,Beverages,39,9
+25,Veg Wrap,Wraps,139,49
+26,Paneer Wrap,Wraps,169,63
+27,Chicken Wrap,Wraps,189,75
+28,Hakka Noodles,Asian,199,82
+29,Veg Manchurian,Asian,179,71
+30,Chilli Chicken,Asian,229,103

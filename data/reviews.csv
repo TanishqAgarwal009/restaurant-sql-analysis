@@ -1,0 +1,1001 @@
+review_id,order_id,rating,review_text
+1,513,5,Loved it
+2,2766,5,Loved it
+3,27,3,Okay overall
+4,4300,5,Loved it
+5,148,2,Food was late
+6,1971,4,Good food
+7,4413,4,Nice experience
+8,3970,2,Food was late
+9,2552,1,Very poor experience
+10,3571,5,Excellent food and service
+11,4654,2,Below expectations
+12,1302,5,Loved it
+13,896,2,Below expectations
+14,4690,3,Average experience
+15,4290,3,Okay overall
+16,890,1,Very poor experience
+17,2782,3,Okay overall
+18,4476,2,Food was late
+19,3067,5,Excellent food and service
+20,3513,4,Nice experience
+21,1819,4,Good food
+22,1335,3,It was fine
+23,2566,4,Would order again
+24,2907,1,Order arrived damaged
+25,836,4,Would order again
+26,971,2,Below expectations
+27,3662,3,Average experience
+28,4873,4,Would order again
+29,3431,4,Would order again
+30,3825,5,Excellent food and service
+31,1556,4,Nice experience
+32,4224,4,Would order again
+33,76,2,Could be better
+34,2182,4,Would order again
+35,2665,4,Would order again
+36,37,3,Average experience
+37,4902,5,Fast delivery and tasty food
+38,2093,1,Not satisfied
+39,9,5,Excellent food and service
+40,1327,5,Fast delivery and tasty food
+41,3389,4,Good food
+42,4866,5,Fast delivery and tasty food
+43,1966,4,Good food
+44,166,1,Very poor experience
+45,4529,3,Okay overall
+46,3706,5,Fast delivery and tasty food
+47,322,5,Fast delivery and tasty food
+48,2428,4,Nice experience
+49,3905,5,Loved it
+50,888,2,Could be better
+51,1235,3,Okay overall
+52,4833,2,Could be better
+53,528,5,Fast delivery and tasty food
+54,2493,3,Average experience
+55,4333,4,Nice experience
+56,3333,4,Good food
+57,3274,2,Food was late
+58,1804,2,Below expectations
+59,2992,3,It was fine
+60,2055,4,Nice experience
+61,1112,4,Good food
+62,3167,3,Average experience
+63,3109,4,Nice experience
+64,2809,4,Would order again
+65,3017,3,Average experience
+66,2092,5,Excellent food and service
+67,1384,3,Okay overall
+68,4734,2,Food was late
+69,2273,5,Loved it
+70,4014,4,Good food
+71,2385,4,Nice experience
+72,4393,3,Okay overall
+73,4135,4,Good food
+74,4259,4,Good food
+75,657,4,Nice experience
+76,33,5,Loved it
+77,3202,4,Good food
+78,2045,4,Good food
+79,3445,3,Okay overall
+80,1499,4,Nice experience
+81,3888,4,Nice experience
+82,316,5,Fast delivery and tasty food
+83,1831,1,Not satisfied
+84,4418,3,Average experience
+85,1900,2,Food was late
+86,4580,3,It was fine
+87,754,5,Loved it
+88,922,4,Would order again
+89,3785,3,It was fine
+90,4590,4,Would order again
+91,4236,5,Excellent food and service
+92,1202,3,Average experience
+93,3552,4,Good food
+94,1784,4,Good food
+95,3110,4,Good food
+96,3040,4,Good food
+97,3239,5,Loved it
+98,4524,2,Below expectations
+99,885,4,Nice experience
+100,197,4,Good food
+101,1640,4,Would order again
+102,4648,5,Fast delivery and tasty food
+103,3294,4,Good food
+104,1271,2,Below expectations
+105,763,4,Would order again
+106,3039,5,Excellent food and service
+107,2917,4,Good food
+108,697,3,Okay overall
+109,2961,5,Excellent food and service
+110,4608,4,Good food
+111,2700,3,Average experience
+112,1500,5,Loved it
+113,1490,4,Would order again
+114,1096,5,Fast delivery and tasty food
+115,4528,4,Nice experience
+116,3870,1,Very poor experience
+117,4540,3,It was fine
+118,1219,2,Food was late
+119,1728,4,Would order again
+120,1332,4,Good food
+121,4775,5,Loved it
+122,3072,3,Okay overall
+123,2510,3,It was fine
+124,4740,3,Average experience
+125,589,4,Nice experience
+126,3530,3,Average experience
+127,1314,4,Would order again
+128,654,5,Loved it
+129,2225,4,Nice experience
+130,4876,5,Loved it
+131,953,4,Nice experience
+132,2293,3,Okay overall
+133,748,4,Would order again
+134,3240,5,Excellent food and service
+135,4249,1,Order arrived damaged
+136,3157,5,Fast delivery and tasty food
+137,262,4,Nice experience
+138,4544,5,Excellent food and service
+139,4847,3,It was fine
+140,2203,3,Average experience
+141,3328,4,Would order again
+142,4766,5,Loved it
+143,4501,5,Excellent food and service
+144,3761,4,Good food
+145,4570,4,Good food
+146,808,5,Excellent food and service
+147,218,4,Would order again
+148,520,3,Average experience
+149,3660,5,Excellent food and service
+150,3101,3,Average experience
+151,276,4,Good food
+152,841,4,Good food
+153,1041,1,Not satisfied
+154,1693,4,Nice experience
+155,1148,3,It was fine
+156,550,3,Average experience
+157,2400,2,Could be better
+158,2474,4,Would order again
+159,4012,3,It was fine
+160,3969,4,Good food
+161,3163,3,Okay overall
+162,5000,3,It was fine
+163,1894,5,Loved it
+164,3155,4,Good food
+165,2535,5,Excellent food and service
+166,2028,3,Okay overall
+167,689,5,Loved it
+168,172,3,Average experience
+169,3805,4,Nice experience
+170,3880,4,Good food
+171,479,3,Okay overall
+172,4179,5,Excellent food and service
+173,4764,5,Excellent food and service
+174,4735,2,Food was late
+175,4818,5,Fast delivery and tasty food
+176,4836,5,Fast delivery and tasty food
+177,947,5,Fast delivery and tasty food
+178,1483,4,Nice experience
+179,443,5,Excellent food and service
+180,1444,3,Okay overall
+181,4326,4,Good food
+182,3820,5,Excellent food and service
+183,1814,5,Loved it
+184,2004,5,Fast delivery and tasty food
+185,323,5,Excellent food and service
+186,1672,5,Excellent food and service
+187,1837,4,Nice experience
+188,644,3,Average experience
+189,119,4,Would order again
+190,2576,4,Nice experience
+191,4944,3,Okay overall
+192,1870,5,Loved it
+193,881,5,Loved it
+194,1239,5,Loved it
+195,4459,3,It was fine
+196,4214,3,Average experience
+197,1423,4,Good food
+198,260,3,It was fine
+199,57,3,It was fine
+200,3612,4,Would order again
+201,3492,5,Fast delivery and tasty food
+202,868,1,Very poor experience
+203,1138,4,Nice experience
+204,2908,3,Okay overall
+205,4407,2,Below expectations
+206,2159,4,Good food
+207,30,3,Okay overall
+208,542,5,Loved it
+209,1395,5,Loved it
+210,1458,4,Good food
+211,4003,4,Good food
+212,1795,4,Nice experience
+213,1782,3,Okay overall
+214,2902,2,Could be better
+215,3728,4,Good food
+216,2429,1,Not satisfied
+217,2046,5,Loved it
+218,2948,5,Fast delivery and tasty food
+219,1968,5,Loved it
+220,2956,1,Very poor experience
+221,3614,5,Fast delivery and tasty food
+222,610,3,Average experience
+223,3460,5,Excellent food and service
+224,145,2,Could be better
+225,1145,5,Loved it
+226,3156,5,Fast delivery and tasty food
+227,3374,5,Fast delivery and tasty food
+228,3341,4,Good food
+229,2873,2,Below expectations
+230,133,2,Food was late
+231,342,4,Nice experience
+232,2517,4,Nice experience
+233,2715,2,Below expectations
+234,3008,3,Okay overall
+235,1412,3,It was fine
+236,3865,4,Good food
+237,2945,4,Good food
+238,4765,4,Would order again
+239,1435,5,Loved it
+240,4001,5,Loved it
+241,1367,1,Very poor experience
+242,765,4,Nice experience
+243,147,5,Loved it
+244,1671,5,Excellent food and service
+245,1954,4,Would order again
+246,931,5,Fast delivery and tasty food
+247,4240,5,Fast delivery and tasty food
+248,2871,4,Would order again
+249,3360,4,Good food
+250,2932,3,Average experience
+251,1101,5,Loved it
+252,917,3,Okay overall
+253,20,3,Average experience
+254,3833,5,Loved it
+255,1584,2,Below expectations
+256,2051,5,Fast delivery and tasty food
+257,3005,4,Nice experience
+258,1773,4,Good food
+259,2437,3,It was fine
+260,324,5,Fast delivery and tasty food
+261,2720,5,Excellent food and service
+262,1127,4,Would order again
+263,135,2,Could be better
+264,472,4,Nice experience
+265,4637,5,Loved it
+266,4702,5,Fast delivery and tasty food
+267,4591,5,Excellent food and service
+268,1149,2,Below expectations
+269,3207,3,It was fine
+270,445,2,Could be better
+271,4130,2,Could be better
+272,4243,2,Below expectations
+273,4807,2,Food was late
+274,509,3,Average experience
+275,3082,2,Could be better
+276,4460,4,Would order again
+277,1479,4,Nice experience
+278,1484,4,Would order again
+279,1358,3,Average experience
+280,2649,5,Fast delivery and tasty food
+281,299,3,Okay overall
+282,4004,5,Fast delivery and tasty food
+283,2165,5,Fast delivery and tasty food
+284,723,4,Would order again
+285,100,4,Nice experience
+286,3347,5,Excellent food and service
+287,2359,3,Okay overall
+288,3443,4,Good food
+289,4421,5,Excellent food and service
+290,1215,4,Good food
+291,3189,4,Good food
+292,4905,4,Nice experience
+293,4272,5,Fast delivery and tasty food
+294,4038,5,Excellent food and service
+295,3419,4,Good food
+296,4997,4,Good food
+297,3321,5,Excellent food and service
+298,4185,4,Would order again
+299,597,3,Average experience
+300,2845,1,Not satisfied
+301,2480,4,Good food
+302,2530,4,Good food
+303,4005,5,Loved it
+304,828,4,Good food
+305,4953,4,Nice experience
+306,4576,5,Loved it
+307,1674,2,Below expectations
+308,715,5,Fast delivery and tasty food
+309,1123,4,Would order again
+310,3255,5,Fast delivery and tasty food
+311,3200,5,Fast delivery and tasty food
+312,195,2,Could be better
+313,2228,4,Good food
+314,707,5,Excellent food and service
+315,158,4,Good food
+316,3917,3,It was fine
+317,193,4,Would order again
+318,778,4,Nice experience
+319,312,4,Would order again
+320,3574,3,Average experience
+321,51,4,Good food
+322,2537,5,Fast delivery and tasty food
+323,2709,3,Average experience
+324,4730,5,Fast delivery and tasty food
+325,4085,5,Loved it
+326,4036,3,Okay overall
+327,2436,5,Excellent food and service
+328,1348,4,Nice experience
+329,1698,3,Average experience
+330,3525,3,It was fine
+331,895,5,Fast delivery and tasty food
+332,1660,4,Good food
+333,1871,2,Food was late
+334,4922,2,Below expectations
+335,4039,3,It was fine
+336,3320,4,Would order again
+337,377,4,Nice experience
+338,164,5,Fast delivery and tasty food
+339,4890,4,Nice experience
+340,4477,3,Average experience
+341,2698,5,Excellent food and service
+342,1783,4,Nice experience
+343,4433,5,Loved it
+344,2246,3,Average experience
+345,1311,3,Average experience
+346,2304,3,Okay overall
+347,462,4,Nice experience
+348,4149,2,Food was late
+349,919,1,Very poor experience
+350,3476,1,Very poor experience
+351,4127,4,Good food
+352,4940,4,Good food
+353,3787,3,Okay overall
+354,3257,5,Excellent food and service
+355,4893,5,Loved it
+356,1294,5,Loved it
+357,349,4,Would order again
+358,1666,4,Good food
+359,335,4,Nice experience
+360,3024,5,Fast delivery and tasty food
+361,447,2,Food was late
+362,3432,2,Could be better
+363,741,4,Would order again
+364,1228,3,Okay overall
+365,22,4,Nice experience
+366,2648,1,Very poor experience
+367,4686,4,Would order again
+368,4308,5,Fast delivery and tasty food
+369,4096,5,Excellent food and service
+370,2695,5,Excellent food and service
+371,502,4,Good food
+372,4679,5,Excellent food and service
+373,3764,5,Loved it
+374,1576,5,Excellent food and service
+375,2837,3,It was fine
+376,504,5,Excellent food and service
+377,2544,5,Excellent food and service
+378,315,3,Average experience
+379,2743,3,Average experience
+380,1912,2,Below expectations
+381,2705,4,Would order again
+382,77,4,Would order again
+383,579,3,Okay overall
+384,1140,4,Nice experience
+385,4020,5,Loved it
+386,4754,5,Fast delivery and tasty food
+387,2446,2,Could be better
+388,4871,4,Would order again
+389,2616,4,Good food
+390,3955,2,Could be better
+391,3999,4,Would order again
+392,3685,4,Good food
+393,1609,4,Good food
+394,4966,3,Average experience
+395,2647,4,Good food
+396,68,4,Nice experience
+397,927,2,Below expectations
+398,4913,4,Would order again
+399,2002,2,Below expectations
+400,1365,2,Below expectations
+401,1000,4,Would order again
+402,345,5,Loved it
+403,3619,5,Loved it
+404,4925,4,Would order again
+405,3093,3,It was fine
+406,4729,2,Food was late
+407,659,4,Good food
+408,617,3,Average experience
+409,1624,4,Good food
+410,2560,5,Loved it
+411,2542,3,Okay overall
+412,4002,4,Nice experience
+413,234,5,Fast delivery and tasty food
+414,1913,3,Okay overall
+415,4803,5,Loved it
+416,1399,3,Okay overall
+417,690,2,Food was late
+418,3590,4,Would order again
+419,4467,4,Nice experience
+420,584,2,Could be better
+421,624,2,Food was late
+422,960,4,Would order again
+423,214,4,Good food
+424,1920,4,Would order again
+425,1548,2,Below expectations
+426,685,5,Loved it
+427,2464,1,Not satisfied
+428,3236,2,Below expectations
+429,969,5,Loved it
+430,3945,4,Good food
+431,988,1,Very poor experience
+432,1033,4,Good food
+433,4200,4,Would order again
+434,2835,2,Could be better
+435,3329,2,Food was late
+436,1243,4,Nice experience
+437,866,5,Fast delivery and tasty food
+438,103,2,Could be better
+439,2395,4,Would order again
+440,2555,5,Excellent food and service
+441,152,4,Would order again
+442,2016,4,Nice experience
+443,3314,4,Good food
+444,4842,4,Good food
+445,2223,4,Would order again
+446,1661,4,Would order again
+447,962,4,Nice experience
+448,1318,5,Excellent food and service
+449,2551,5,Excellent food and service
+450,4849,2,Food was late
+451,4829,4,Good food
+452,1571,5,Excellent food and service
+453,3940,5,Fast delivery and tasty food
+454,4151,3,It was fine
+455,1468,2,Food was late
+456,981,2,Food was late
+457,1844,2,Below expectations
+458,2548,1,Not satisfied
+459,854,5,Fast delivery and tasty food
+460,2444,3,Average experience
+461,3613,2,Below expectations
+462,1040,5,Fast delivery and tasty food
+463,1964,5,Loved it
+464,3383,5,Loved it
+465,2946,4,Would order again
+466,2651,3,Average experience
+467,165,5,Fast delivery and tasty food
+468,3699,4,Nice experience
+469,4640,5,Fast delivery and tasty food
+470,4562,2,Below expectations
+471,2694,5,Excellent food and service
+472,1634,5,Fast delivery and tasty food
+473,496,4,Nice experience
+474,582,3,It was fine
+475,4908,4,Good food
+476,4424,2,Could be better
+477,222,4,Would order again
+478,3688,2,Below expectations
+479,3975,5,Fast delivery and tasty food
+480,3344,5,Excellent food and service
+481,261,4,Nice experience
+482,1757,4,Nice experience
+483,1999,5,Excellent food and service
+484,2158,4,Good food
+485,2295,1,Not satisfied
+486,2333,3,Okay overall
+487,4035,4,Good food
+488,4569,3,It was fine
+489,3504,2,Below expectations
+490,1305,5,Fast delivery and tasty food
+491,2117,1,Very poor experience
+492,404,4,Would order again
+493,4844,3,It was fine
+494,3959,2,Below expectations
+495,4561,3,Average experience
+496,1657,4,Good food
+497,4341,4,Nice experience
+498,415,2,Food was late
+499,1643,4,Good food
+500,2115,5,Loved it
+501,2839,5,Loved it
+502,1669,4,Good food
+503,1726,4,Would order again
+504,2381,5,Loved it
+505,2091,3,Okay overall
+506,1046,1,Very poor experience
+507,3579,4,Good food
+508,398,4,Nice experience
+509,4072,4,Would order again
+510,894,4,Nice experience
+511,1838,3,It was fine
+512,3372,5,Loved it
+513,3881,5,Loved it
+514,2460,5,Fast delivery and tasty food
+515,2502,3,Average experience
+516,4470,5,Excellent food and service
+517,4498,2,Food was late
+518,209,4,Nice experience
+519,1184,5,Loved it
+520,4345,5,Excellent food and service
+521,1682,4,Nice experience
+522,1565,2,Below expectations
+523,1185,4,Would order again
+524,1727,5,Excellent food and service
+525,792,3,Average experience
+526,2768,4,Nice experience
+527,3315,5,Loved it
+528,3862,5,Loved it
+529,1282,5,Excellent food and service
+530,4394,2,Below expectations
+531,3307,5,Excellent food and service
+532,3715,4,Good food
+533,1737,3,Okay overall
+534,3160,3,Average experience
+535,182,2,Could be better
+536,2263,4,Good food
+537,1303,4,Nice experience
+538,1231,1,Order arrived damaged
+539,1716,4,Would order again
+540,3558,5,Fast delivery and tasty food
+541,102,5,Excellent food and service
+542,3664,3,It was fine
+543,1221,5,Excellent food and service
+544,2269,3,It was fine
+545,1386,5,Fast delivery and tasty food
+546,87,3,Okay overall
+547,2596,4,Would order again
+548,879,3,Okay overall
+549,167,5,Excellent food and service
+550,3856,4,Would order again
+551,2339,2,Could be better
+552,1163,5,Loved it
+553,3649,4,Nice experience
+554,2804,3,It was fine
+555,4495,5,Excellent food and service
+556,3908,2,Below expectations
+557,2840,4,Good food
+558,2824,5,Excellent food and service
+559,1897,3,Okay overall
+560,2109,4,Good food
+561,2047,5,Loved it
+562,336,2,Food was late
+563,3206,1,Order arrived damaged
+564,2509,5,Excellent food and service
+565,4823,4,Nice experience
+566,1322,4,Would order again
+567,1696,3,It was fine
+568,3400,4,Would order again
+569,2298,4,Would order again
+570,1159,4,Would order again
+571,1519,5,Fast delivery and tasty food
+572,202,4,Good food
+573,224,4,Would order again
+574,439,4,Good food
+575,1779,4,Good food
+576,3116,3,It was fine
+577,3489,1,Not satisfied
+578,332,2,Below expectations
+579,3937,5,Fast delivery and tasty food
+580,184,5,Fast delivery and tasty food
+581,3770,5,Fast delivery and tasty food
+582,1269,4,Good food
+583,3305,2,Below expectations
+584,3280,3,Okay overall
+585,1962,5,Loved it
+586,4980,3,Okay overall
+587,230,4,Nice experience
+588,2958,4,Good food
+589,91,4,Good food
+590,973,4,Good food
+591,3591,1,Very poor experience
+592,1941,4,Nice experience
+593,2300,3,It was fine
+594,2753,4,Nice experience
+595,4884,5,Fast delivery and tasty food
+596,2453,5,Excellent food and service
+597,2063,5,Fast delivery and tasty food
+598,4929,3,It was fine
+599,1403,2,Could be better
+600,198,4,Would order again
+601,1646,4,Nice experience
+602,465,4,Would order again
+603,314,5,Loved it
+604,3994,4,Would order again
+605,1401,4,Would order again
+606,1004,2,Food was late
+607,1308,5,Excellent food and service
+608,206,2,Could be better
+609,1824,4,Nice experience
+610,1780,3,Average experience
+611,304,5,Fast delivery and tasty food
+612,393,4,Good food
+613,985,5,Fast delivery and tasty food
+614,295,3,Average experience
+615,4379,4,Nice experience
+616,1572,4,Would order again
+617,1610,3,Average experience
+618,2658,2,Could be better
+619,4943,5,Loved it
+620,4916,5,Excellent food and service
+621,2166,5,Excellent food and service
+622,394,4,Good food
+623,3818,5,Loved it
+624,240,3,Okay overall
+625,4658,1,Not satisfied
+626,1283,3,Average experience
+627,3268,2,Could be better
+628,4390,3,It was fine
+629,500,3,Okay overall
+630,2177,4,Would order again
+631,604,3,Okay overall
+632,2883,4,Good food
+633,739,5,Excellent food and service
+634,2327,4,Nice experience
+635,1891,3,It was fine
+636,3025,4,Nice experience
+637,431,3,Okay overall
+638,3648,4,Nice experience
+639,1755,4,Would order again
+640,4768,3,It was fine
+641,4468,4,Nice experience
+642,2399,4,Good food
+643,795,5,Fast delivery and tasty food
+644,2842,5,Fast delivery and tasty food
+645,3094,3,Average experience
+646,210,5,Loved it
+647,3270,3,Okay overall
+648,4233,3,Average experience
+649,341,2,Food was late
+650,2478,3,It was fine
+651,2967,4,Good food
+652,821,1,Not satisfied
+653,1057,1,Very poor experience
+654,1876,4,Would order again
+655,123,3,Average experience
+656,2668,2,Food was late
+657,2687,4,Good food
+658,4473,3,Average experience
+659,4669,5,Fast delivery and tasty food
+660,4138,2,Food was late
+661,1009,4,Would order again
+662,869,4,Good food
+663,1330,4,Would order again
+664,4117,4,Nice experience
+665,3737,5,Fast delivery and tasty food
+666,4991,4,Nice experience
+667,1539,4,Good food
+668,3758,4,Good food
+669,1951,4,Nice experience
+670,3486,3,Average experience
+671,805,3,Okay overall
+672,2760,5,Fast delivery and tasty food
+673,1278,2,Could be better
+674,2006,5,Excellent food and service
+675,1450,5,Fast delivery and tasty food
+676,4282,5,Excellent food and service
+677,2553,5,Loved it
+678,4340,2,Below expectations
+679,2623,1,Not satisfied
+680,1062,4,Nice experience
+681,1970,4,Nice experience
+682,487,3,Average experience
+683,4763,5,Excellent food and service
+684,4701,4,Nice experience
+685,3310,3,Okay overall
+686,663,3,It was fine
+687,3300,3,Okay overall
+688,2655,3,Average experience
+689,3054,5,Fast delivery and tasty food
+690,3444,5,Fast delivery and tasty food
+691,1214,5,Loved it
+692,278,4,Nice experience
+693,2154,1,Order arrived damaged
+694,556,4,Good food
+695,1309,4,Would order again
+696,4806,5,Fast delivery and tasty food
+697,80,3,Average experience
+698,1099,1,Order arrived damaged
+699,4598,4,Nice experience
+700,1645,5,Fast delivery and tasty food
+701,4603,3,Average experience
+702,2357,4,Nice experience
+703,660,5,Loved it
+704,3175,5,Loved it
+705,3474,4,Good food
+706,4631,1,Not satisfied
+707,4577,5,Excellent food and service
+708,459,1,Not satisfied
+709,4700,4,Nice experience
+710,538,4,Good food
+711,378,2,Food was late
+712,2863,2,Could be better
+713,4804,5,Excellent food and service
+714,2466,2,Food was late
+715,1164,4,Good food
+716,4880,4,Would order again
+717,1786,5,Loved it
+718,1662,3,Okay overall
+719,2290,3,Average experience
+720,682,4,Nice experience
+721,1319,2,Food was late
+722,1388,3,It was fine
+723,1749,4,Would order again
+724,4237,3,Average experience
+725,4462,4,Would order again
+726,1368,5,Fast delivery and tasty food
+727,1756,5,Loved it
+728,2462,3,Average experience
+729,4146,5,Excellent food and service
+730,1285,4,Would order again
+731,4219,2,Below expectations
+732,3885,3,Average experience
+733,383,4,Good food
+734,2741,3,It was fine
+735,4681,5,Excellent food and service
+736,4359,1,Order arrived damaged
+737,4928,3,Okay overall
+738,1151,5,Excellent food and service
+739,3047,4,Nice experience
+740,4863,3,It was fine
+741,1983,5,Loved it
+742,3497,5,Loved it
+743,4350,3,It was fine
+744,751,5,Excellent food and service
+745,2905,3,It was fine
+746,3267,3,Average experience
+747,1601,2,Could be better
+748,2187,4,Nice experience
+749,3554,4,Nice experience
+750,359,2,Food was late
+751,4453,3,Average experience
+752,794,2,Food was late
+753,1959,3,Okay overall
+754,1291,3,Okay overall
+755,1902,5,Loved it
+756,3766,1,Not satisfied
+757,3810,3,Okay overall
+758,2578,4,Would order again
+759,3511,5,Fast delivery and tasty food
+760,4772,4,Nice experience
+761,2564,2,Food was late
+762,4680,3,Average experience
+763,3533,4,Would order again
+764,3136,4,Would order again
+765,3162,3,Average experience
+766,649,1,Very poor experience
+767,1746,4,Would order again
+768,482,5,Excellent food and service
+769,1950,5,Loved it
+770,3890,5,Fast delivery and tasty food
+771,2449,4,Nice experience
+772,1154,4,Would order again
+773,489,3,Okay overall
+774,1391,4,Would order again
+775,1247,4,Would order again
+776,1372,4,Good food
+777,4831,2,Food was late
+778,4385,3,It was fine
+779,16,2,Food was late
+780,3085,4,Would order again
+781,2561,5,Fast delivery and tasty food
+782,1637,5,Fast delivery and tasty food
+783,2217,2,Food was late
+784,1796,2,Below expectations
+785,3951,4,Good food
+786,387,1,Not satisfied
+787,4789,3,It was fine
+788,4662,4,Good food
+789,1765,4,Nice experience
+790,2864,5,Excellent food and service
+791,4207,5,Loved it
+792,3823,5,Fast delivery and tasty food
+793,3697,4,Nice experience
+794,4721,4,Would order again
+795,626,4,Nice experience
+796,2384,3,Average experience
+797,4541,4,Nice experience
+798,3186,5,Loved it
+799,2128,3,Average experience
+800,4889,5,Fast delivery and tasty food
+801,4978,4,Nice experience
+802,3290,5,Loved it
+803,533,4,Good food
+804,932,5,Fast delivery and tasty food
+805,4517,2,Could be better
+806,3957,4,Nice experience
+807,4736,4,Nice experience
+808,2679,3,It was fine
+809,4959,5,Loved it
+810,3368,4,Nice experience
+811,3415,4,Good food
+812,2832,3,Okay overall
+813,551,5,Fast delivery and tasty food
+814,422,4,Good food
+815,1233,4,Good food
+816,1582,5,Excellent food and service
+817,1544,5,Excellent food and service
+818,2821,5,Loved it
+819,2758,5,Excellent food and service
+820,3263,5,Excellent food and service
+821,2968,5,Fast delivery and tasty food
+822,1903,4,Would order again
+823,2231,3,It was fine
+824,2519,5,Loved it
+825,3122,4,Would order again
+826,1128,4,Would order again
+827,2524,5,Excellent food and service
+828,3742,3,Okay overall
+829,950,4,Nice experience
+830,467,4,Good food
+831,2882,2,Below expectations
+832,4438,4,Good food
+833,1778,4,Nice experience
+834,2599,4,Would order again
+835,1695,4,Nice experience
+836,1734,4,Nice experience
+837,2812,4,Good food
+838,1707,2,Food was late
+839,4161,4,Would order again
+840,1134,4,Good food
+841,2780,5,Fast delivery and tasty food
+842,3074,4,Good food
+843,4334,4,Nice experience
+844,4584,5,Fast delivery and tasty food
+845,4514,4,Good food
+846,1923,4,Would order again
+847,171,5,Fast delivery and tasty food
+848,2725,4,Would order again
+849,1505,2,Below expectations
+850,3874,3,It was fine
+851,708,4,Good food
+852,4083,4,Would order again
+853,3063,5,Fast delivery and tasty food
+854,4287,5,Fast delivery and tasty food
+855,2767,4,Would order again
+856,3065,5,Fast delivery and tasty food
+857,4974,1,Not satisfied
+858,3962,2,Food was late
+859,3936,2,Food was late
+860,357,4,Would order again
+861,1178,3,Okay overall
+862,1760,4,Nice experience
+863,4294,4,Good food
+864,4045,4,Good food
+865,248,5,Excellent food and service
+866,4779,5,Excellent food and service
+867,3119,5,Excellent food and service
+868,2659,5,Loved it
+869,2030,5,Excellent food and service
+870,3729,4,Would order again
+871,4423,2,Food was late
+872,2497,5,Excellent food and service
+873,1355,5,Fast delivery and tasty food
+874,3516,2,Below expectations
+875,832,1,Very poor experience
+876,563,5,Fast delivery and tasty food
+877,3468,5,Loved it
+878,36,5,Fast delivery and tasty food
+879,2689,2,Could be better
+880,2160,4,Nice experience
+881,2702,3,Okay overall
+882,4882,4,Would order again
+883,4082,3,It was fine
+884,4756,5,Excellent food and service
+885,1347,4,Good food
+886,819,2,Could be better
+887,807,5,Loved it
+888,2214,2,Food was late
+889,4533,4,Nice experience
+890,4158,4,Nice experience
+891,3033,4,Good food
+892,1535,5,Excellent food and service
+893,874,5,Loved it
+894,2157,4,Nice experience
+895,2192,3,It was fine
+896,4205,5,Excellent food and service
+897,1641,5,Loved it
+898,3889,4,Good food
+899,862,4,Nice experience
+900,3564,2,Food was late
+901,2317,4,Good food
+902,4481,2,Below expectations
+903,1389,3,Okay overall
+904,250,3,It was fine
+905,948,3,Okay overall
+906,4144,2,Food was late
+907,4843,4,Would order again
+908,2539,2,Below expectations
+909,437,4,Would order again
+910,187,4,Good food
+911,592,5,Fast delivery and tasty food
+912,4335,2,Below expectations
+913,2305,3,Okay overall
+914,3594,2,Food was late
+915,4986,5,Excellent food and service
+916,2367,5,Fast delivery and tasty food
+917,2412,5,Loved it
+918,2057,3,Okay overall
+919,1448,2,Food was late
+920,3600,3,It was fine
+921,2080,5,Excellent food and service
+922,4160,4,Good food
+923,2127,4,Would order again
+924,3687,4,Nice experience
+925,2275,4,Nice experience
+926,4491,2,Below expectations
+927,2996,2,Food was late
+928,747,3,Average experience
+929,2939,5,Loved it
+930,1296,4,Would order again
+931,3134,4,Good food
+932,3713,1,Very poor experience
+933,3783,4,Nice experience
+934,49,4,Good food
+935,620,4,Nice experience
+936,2819,3,Okay overall
+937,3409,3,It was fine
+938,3991,5,Loved it
+939,3550,2,Food was late
+940,4851,5,Fast delivery and tasty food
+941,4687,5,Excellent food and service
+942,4402,3,Average experience
+943,2105,3,Average experience
+944,275,3,Okay overall
+945,4971,3,Average experience
+946,2512,3,Okay overall
+947,4918,3,Average experience
+948,1588,4,Nice experience
+949,1067,5,Fast delivery and tasty food
+950,2348,2,Could be better
+951,1094,1,Very poor experience
+952,2434,5,Loved it
+953,1170,4,Nice experience
+954,352,4,Nice experience
+955,4033,4,Nice experience
+956,4617,3,It was fine
+957,4627,4,Good food
+958,886,4,Would order again
+959,4917,2,Food was late
+960,1166,5,Loved it
+961,1597,5,Excellent food and service
+962,1842,4,Would order again
+963,1206,3,Okay overall
+964,4404,4,Nice experience
+965,3049,3,Okay overall
+966,4010,3,Average experience
+967,684,4,Nice experience
+968,1075,5,Loved it
+969,3183,4,Nice experience
+970,2476,5,Fast delivery and tasty food
+971,2937,4,Nice experience
+972,4587,1,Not satisfied
+973,355,4,Good food
+974,4613,4,Would order again
+975,575,3,Okay overall
+976,989,4,Would order again
+977,1187,5,Fast delivery and tasty food
+978,106,5,Excellent food and service
+979,4651,3,Okay overall
+980,4650,3,Average experience
+981,1459,4,Good food
+982,1121,4,Would order again
+983,4512,4,Good food
+984,2682,4,Nice experience
+985,4731,4,Good food
+986,3914,4,Nice experience
+987,1919,3,Okay overall
+988,1616,5,Excellent food and service
+989,4331,5,Fast delivery and tasty food
+990,725,4,Nice experience
+991,539,4,Good food
+992,2747,2,Food was late
+993,381,4,Would order again
+994,1514,5,Fast delivery and tasty food
+995,1990,5,Excellent food and service
+996,4260,4,Good food
+997,3448,2,Could be better
+998,546,4,Would order again
+999,1158,5,Excellent food and service
+1000,1915,4,Would order again

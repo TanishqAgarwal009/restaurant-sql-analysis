@@ -1,0 +1,11 @@
+outlet_id,outlet_name,city,state,opening_date
+1,SpiceRoute Jaipur 1,Jaipur,Rajasthan,2025-08-02
+2,SpiceRoute Jaipur 2,Jaipur,Rajasthan,2022-08-17
+3,SpiceRoute Delhi 1,Delhi,Delhi,2022-02-21
+4,SpiceRoute Delhi 2,Delhi,Delhi,2023-07-18
+5,SpiceRoute Mumbai 1,Mumbai,Maharashtra,2023-05-17
+6,SpiceRoute Mumbai 2,Mumbai,Maharashtra,2023-04-03
+7,SpiceRoute Pune 1,Pune,Maharashtra,2022-10-13
+8,SpiceRoute Pune 2,Pune,Maharashtra,2022-07-29
+9,SpiceRoute Bengaluru 1,Bengaluru,Karnataka,2025-10-17
+10,SpiceRoute Bengaluru 2,Bengaluru,Karnataka,2025-01-21
