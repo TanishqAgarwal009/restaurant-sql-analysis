@@ -83,7 +83,6 @@ restaurant-sql-analytics/
     └── restaurant_sql_report.pdf
 ```
 
-Note: Update the filenames and folders to match the actual contents of your repository.
 
 ## Key Business Metrics
 
